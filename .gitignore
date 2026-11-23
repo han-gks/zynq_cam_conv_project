@@ -1,0 +1,12 @@
+# Local archive / earlier versions & coursework (keep locally only)
+lenet5_c/
+verilog/
+**/_study/
+
+# Office docs, backups & archives
+*.docx
+*.doc
+*.pptx
+*.zip
+*.coe
+*.bkp
